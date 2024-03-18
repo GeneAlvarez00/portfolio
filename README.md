@@ -6,8 +6,9 @@
 ### B.S, Finance and Managment Information Systems|Binghamton University(Spring 2022)
 
 
-### Work Experience
+## Work Experience
 
 
 
-### Projects
+
+## Projects
